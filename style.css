@@ -1,0 +1,85 @@
+
+/* General */
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+/* Header */
+
+#header {
+    background-color: #ccebff;
+    
+}
+
+h1{
+    font-size: 30px;
+    margin: 0;
+    text-align: center;
+    padding-top: 15px;
+    color: black;
+    text-transform: uppercase;
+}
+h2{
+    text-align: center;
+    margin: 0;
+    color: black;
+}
+
+#nav {
+    background-color: #33cccc;
+    text-align: center;
+    list-style-type: none;
+    
+}
+
+#nav li{
+    display: inline-block;
+    padding: 6px 8px 6px 8px;
+}
+
+#nav li a{
+    color: white;
+}
+
+#nav li:hover{
+    background-color: antiquewhite;
+    
+}
+#nav li:hover a{
+    color: black;
+}
+
+
+
+/* content */
+
+#content{
+    width: 600px;
+    margin: 30px auto;
+}
+
+#content h4 {
+    border-bottom: #33cccc solid 3px;
+}
+
+hr{
+    height: 2px;
+    background-color: #33cccc;
+}
+
+
+
+
+
+
+
+
+
+
